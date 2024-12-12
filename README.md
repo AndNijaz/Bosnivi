@@ -73,10 +73,5 @@ This project was initiated to support tourism in Bosnia and Herzegovina. It refl
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Live Demo
 Check out the live version here: [Bosnivi Website](https://bosnivi.netlify.app/)
