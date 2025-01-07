@@ -1,6 +1,6 @@
 # Bosnivi: Bosnian Tourist Agency Website
 
-[Live Demo](https://bosnivi.netlify.app/)
+You can see the app here: [Live Demo](https://bosnivi.netlify.app/)
 
 ## Project Description
 Bosnivi is a prototype website designed for a Bosnian tourist agency. The project aims to promote tourism by providing detailed information about travel destinations, cultural experiences, and activities in Bosnia and Herzegovina. This website serves as a foundation for further development into a fully operational platform for travel enthusiasts.
